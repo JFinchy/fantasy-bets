@@ -41,7 +41,7 @@
     - Go (what framework)
     - Rust (hahah what a bad idea)
     - Java (do I have to?)
-  - Graphql layer for FE? Maybe no need for backend then?
+  - Graphql layer with federation
   - Observability - DD have any free tier
   - Auth0 for basic user auth settings
   - Kubernetes?
