@@ -20,6 +20,7 @@
   - leagues, matchups, and individual play your involved in and recent picks slip
     - Ability to see further context of games and history/competitors
   - see your current streak and +/- for the week
+- See current game stats and how far off from winning your bet you are
 
 ## Other ideas
 
